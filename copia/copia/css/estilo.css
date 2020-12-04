@@ -1,0 +1,10 @@
+.menu{
+	color: #fff !important;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.menu::hover{
+	background-color: rgba(37, 0, 6, 0.7) !important;
+	transition-duration: 2s;
+}
